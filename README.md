@@ -2,6 +2,10 @@
 
 A responsive React application featuring a product carousel and interactive shopping cart, built with TypeScript, Tailwind CSS, and Zustand for state management.
 
+# Demo
+
+gameloft-task.vercel.app
+
 ## Tech Stack
 
 - **React 19.0.0** - UI library
