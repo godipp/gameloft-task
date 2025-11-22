@@ -4,7 +4,7 @@ A responsive React application featuring a product carousel and interactive shop
 
 # Demo
 
-gameloft-task.vercel.app
+[gameloft-task.vercel.app](https://gameloft-task.vercel.app/)
 
 ## Tech Stack
 
